@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("David", "Mello Neto", , "davidmaciel2206@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "https://orcid.org/0000-0002-2391-1312"))
-Description: What the package does (one paragraph).
+Description: Research compendium of an article
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
